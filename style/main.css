@@ -16,7 +16,7 @@ body {
   clear: both; }
 
 h1.title {
-  font-size: 25px;
+  font-size: 40px;
   font-weight: bold;
   margin: 0;
   display: block;
@@ -55,7 +55,7 @@ h1.title {
   display: inline-block;
   background: #bbada0;
   padding: 15px 25px;
-  font-size: 25px;
+  font-size: 15px;
   height: 25px;
   line-height: 47px;
   font-weight: bold;
